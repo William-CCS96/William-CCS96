@@ -1,3 +1,7 @@
+![Descripción de la imagen](Logo-persona_Fondo blanco.png)
+
+Logo-persona_Fondo blanco.png
+
 ### Hi there 👋
 
 <!--
