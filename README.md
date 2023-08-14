@@ -1,11 +1,9 @@
 <p align="center">
   <img src="Logo-persona_Fondo_blanco.png" alt="Logo_personal">
 </p>
-<p align="center">
-
----
-
-
+<h1 align="center">Hi there 😁
+I´m William Correa </h1>
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/">
     <img src="boton_linkedin.jpeg" alt="Botón LinkedIn">
@@ -15,8 +13,8 @@
   </a>
 </p>
 
+## A little bit about me
 
-### Hi there 👋
 
 <!--
 **William-CCS96/William-CCS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
