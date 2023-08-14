@@ -3,7 +3,8 @@
 </p>
 <p align="center">
 
-___
+---
+[![Botón Texto](https://example.com/boton.png)](https://enlace-de-destino.com)
 
 ### Hi there 👋
 
