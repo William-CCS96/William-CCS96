@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 
-![Descripción de la imagen](Logo-persona_Fondo_blanco.png)
 
 Logo-persona_Fondo blanco.png
 
