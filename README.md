@@ -3,9 +3,6 @@
 </p>
 <p align="center">
 
-
-Logo-persona_Fondo blanco.png
-
 ### Hi there 👋
 
 <!--
