@@ -4,7 +4,7 @@
 <p align="center">
 
 ---
-boton_linkedin.jpeg
+
 [![Botón_linkedin](boton_linkedin.jpeg)]([https://enlace-de-destino.com](https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/))
 
 ### Hi there 👋
