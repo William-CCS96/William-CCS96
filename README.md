@@ -5,7 +5,8 @@
 
 ---
 
-[![Botón_linkedin](boton_linkedin.jpeg)](https://enlace-de-destino.com](https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/))
+[![Botón_linkedin](boton_linkedin.jpeg)](https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/)
+
 
 ### Hi there 👋
 
