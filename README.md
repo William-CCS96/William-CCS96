@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">¡Hola! 😁
 Soy William Correa <br>
-Bienvenido a mi perfil </h1>
+¡Bienvenido a mi perfil de GitHub! </h1>
 
 
 <p align="center">
@@ -21,7 +21,21 @@ Bienvenido a mi perfil </h1>
 </p>
 
 ## Un poco acerca de mi
-___
+
+<p >
+## ¡Hola! 👋
+
+Soy un apasionado Jr. Data Scientist en busca de emocionantes desafíos en el mundo de la ciencia de datos. Mi objetivo es aprovechar mi experiencia en análisis de datos, aprendizaje automático y visualización de datos para abordar problemas complejos y obtener ideas valiosas a partir de conjuntos de datos.
+
+Mi formación y pasión por la resolución de problemas me impulsan a explorar y aplicar técnicas de vanguardia en el campo de la ciencia de datos. Aquí encontrarás proyectos y contribuciones que reflejan mi interés en esta área y mi constante aprendizaje.
+
+Siéntete libre de explorar mis repositorios y proyectos, ¡y no dudes en contactarme si estás interesado en colaborar o si tienes alguna pregunta!
+
+¡Gracias por visitar mi perfil!
+
+  
+</p>
+
 
 
 
