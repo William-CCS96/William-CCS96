@@ -15,7 +15,7 @@ Bienvenido a mi perfil </h1>
   </a>
   
   <a href="www.kaggle.com/williamccs/code">
-    <img src="Logo_kaggle.png" alt="Botón Kaggle">
+    <img src="logo_kaggle.png" alt="Botón Kaggle">
   </a>
   
 </p>
