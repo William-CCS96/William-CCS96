@@ -46,6 +46,9 @@ He llevado a cabo diversos proyectos de ciencia de datos que abarcan desde la co
 * [Análisis estadístico inferencial según índices de obesisdad](https://github.com/William-CCS96/inferential_statitics_obesity_dataset-introduction)
 * [Visualización de datos de las emisiones de metano según regiones, países y sectores productivos.](https://github.com/William-CCS96/matplotlib_seaborn_libraries_global_methane_emissions)
 
+<p align="center">
+  <img src="Visualizaciones_proyectos.jpg" alt="Visualizaciones proyectos.jpg">
+</p>
 <!--
 **William-CCS96/William-CCS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
