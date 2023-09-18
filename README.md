@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Logo-persona_Fondo_blanco.png" alt="Logo_personal">
 </p>
-<h1 align="center">Hi there 😁
+<h1 align="center">¡Hola! 😁
 I´m William Correa </h1>
   
 <p align="center">
