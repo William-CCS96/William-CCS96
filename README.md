@@ -2,8 +2,10 @@
   <img src="Logo-persona_Fondo_blanco.png" alt="Logo_personal">
 </p>
 <h1 align="center">¡Hola! 😁
-I´m William Correa </h1>
-  
+Soy William Correa 
+Bienvenido a mi perfil </h1>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/">
     <img src="boton_linkedin.jpeg" alt="Botón LinkedIn">
