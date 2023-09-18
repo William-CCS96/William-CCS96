@@ -13,6 +13,11 @@ Bienvenido a mi perfil </h1>
   <a href="https://platzi.com/p/williamccs/">
     <img src="boton_platzi.jpeg" alt="Botón Platzi">
   </a>
+  
+  <a href="www.kaggle.com/williamccs/code">
+    <img src="Logo_kaggle.png" alt="Botón Kaggle">
+  </a>
+  
 </p>
 
 ## Un poco acerca de mi
