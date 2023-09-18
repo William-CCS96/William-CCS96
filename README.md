@@ -2,7 +2,7 @@
   <img src="Logo-persona_Fondo_blanco.png" alt="Logo_personal">
 </p>
 <h1 align="center">¡Hola! 😁
-Soy William Correa 
+Soy William Correa <br>
 Bienvenido a mi perfil </h1>
 
 
@@ -15,7 +15,10 @@ Bienvenido a mi perfil </h1>
   </a>
 </p>
 
-## A little bit about me
+## Un poco acerca de mi
+___
+
+
 
 
 <!--
