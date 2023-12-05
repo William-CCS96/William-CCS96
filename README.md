@@ -14,7 +14,7 @@ Soy William Correa <br>
     <img src="boton_platzi.jpeg" alt="Botón Platzi">
   </a>
   
-  <a href="www.kaggle.com/williamccs/code">
+  <a href="https://www.kaggle.com/williamccs/code">
     <img src="logo_kaggle.png" alt="Botón Kaggle">
   </a>
   
