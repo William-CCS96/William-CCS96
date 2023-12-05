@@ -23,12 +23,9 @@ Soy William Correa <br>
 ## Un poco acerca de mi
 
 <p >
-¡Hola! 👋
-Soy un apasionado Jr. Data Scientist en busca de emocionantes desafíos en el mundo de la ciencia de datos. Mi objetivo es aprovechar mi experiencia en análisis de datos, aprendizaje automático y visualización de datos para abordar problemas complejos y obtener ideas valiosas a partir de conjuntos de datos.
+¡Hola! 👋 Soy un Data Analyst con más de 2 años de experiencia en el análisis de datos. Me apasiona desentrañar información clave y KPIs para impulsar estrategias fundamentadas en datos. Desde la implementación técnica de análisis 📊 hasta la visualización de datos 📈, he comunicado tendencias y oportunidades de manera efectiva. Lidero la transformación y limpieza de datos 🧹 para análisis profundos, utilizando bases de datos relacionales como MySQL para extraer información crucial. Mis logros incluyen generar insights valiosos que han desentrañado tendencias de mercado y segmentado clientes a través de modelos de machine learning 🤖, facilitando decisiones estratégicas de alto impacto.
 
-Mi formación y pasión por la resolución de problemas me impulsan a explorar y aplicar técnicas de vanguardia en el campo de la ciencia de datos. Aquí encontrarás proyectos y contribuciones que reflejan mi interés en esta área y mi constante aprendizaje.
-
-Siéntete libre de explorar mis repositorios y proyectos, ¡y no dudes en contactarme si estás interesado en colaborar o si tienes alguna pregunta!
+Mi formación y pasión por la resolución de problemas me impulsan a explorar y aplicar técnicas de vanguardia en el campo de la ciencia y analisis de datos. Aquí encontrarás proyectos y contribuciones que reflejan mi interés en esta área y mi constante aprendizaje.
 
 ¡Gracias por visitar mi perfil!
 </p>
@@ -36,12 +33,14 @@ Siéntete libre de explorar mis repositorios y proyectos, ¡y no dudes en contac
 ## Proyectos ⚡
 
 <p>
-He llevado a cabo diversos proyectos de ciencia de datos que abarcan desde la construcción de modelos de regresión lineal multivariable para predecir la esperanza de vida utilizando datos socioeconómicos de diferentes regiones, hasta la aplicación de técnicas de Estadística inferencial para analizar índices de obesidad basados en hábitos alimentarios y condición física, y el análisis de emisiones de metano a nivel regional en todo el mundo, identificando patrones en relación con la población y sectores productivos.
+He llevado a cabo diversos proyectos de ciencia de datos que abarcan desde la construcción de modelos de arbol de decisiones y Random Forest para la detección de fraude con tarjetas de crédito hasta la creación de modelos predictivos de regresión lineal multivariable para predecir la esperanza de vida utilizando datos socioeconómicos de diferentes regiones, incluyendo la aplicación de técnicas de Estadística inferencial para analizar índices de obesidad basados en hábitos alimentarios y condición física.
 
-  Estos proyectos han involucrado análisis de datos, limpieza, visualización y la implementación de diversas bibliotecas y herramientas de ciencia de datos para obtener perspicaces conclusiones y modelos predictivos. Estoy entusiasmado por seguir explorando desafíos en el campo de la ciencia de datos.
+Estos proyectos han involucrado análisis de datos, limpieza, visualización y la implementación de diversas bibliotecas y herramientas de ciencia de datos para obtener perspicaces conclusiones y modelos predictivos. Estoy entusiasmado por seguir explorando desafíos en el campo del análisis y ciencia de datos.
  Algunos de mis proyectos son:
  </p>
 
+* [Detección de fraude con tarjetas de crédito - Árbol de decisiones - Random Forest](https://github.com/William-CCS96/Credit-card-fraud-predictive-model-with_decision_tree_and_random_forest)
+* [Diagnóstico de cáncer de mama - Regresión logística binomial](https://github.com/William-CCS96/binomial_logistic-regression_diagnostic_breast_cancer_isconsin)
 * [Regresión lineal multivariable esperanza de vida y estatus socioeconómico](https://github.com/William-CCS96/linear_regression_life_expectancy_and_socioeconomic)
 * [Análisis estadístico inferencial según índices de obesisdad](https://github.com/William-CCS96/inferential_statitics_obesity_dataset-introduction)
 * [Visualización de datos de las emisiones de metano según regiones, países y sectores productivos.](https://github.com/William-CCS96/matplotlib_seaborn_libraries_global_methane_emissions)
