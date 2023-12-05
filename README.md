@@ -7,7 +7,7 @@ Soy William Correa <br>
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/william-camilo-correa-sandoval-740a3b229/">
+  <a href="https://www.linkedin.com/in/william-correa-740a3b229/">
     <img src="boton_linkedin.jpeg" alt="Botón LinkedIn">
   </a>
   <a href="https://platzi.com/p/williamccs/">
