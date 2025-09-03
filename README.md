@@ -23,9 +23,13 @@ Soy William Correa <br>
 ## Un poco acerca de mi
 
 <p >
-¡Hola! 👋 Soy un Data Analyst con más de 2 años de experiencia en el análisis de datos. Me apasiona desentrañar información clave y KPIs para impulsar estrategias fundamentadas en datos. Desde la implementación técnica de análisis 📊 hasta la visualización de datos 📈, he comunicado tendencias y oportunidades de manera efectiva. Lidero la transformación y limpieza de datos 🧹 para análisis profundos, utilizando bases de datos relacionales como MySQL para extraer información crucial. Mis logros incluyen generar insights valiosos que han desentrañado tendencias de mercado y segmentado clientes a través de modelos de machine learning 🤖, facilitando decisiones estratégicas de alto impacto.
+👋 ¡Hola! Soy un Data Analyst con más de 4 años de experiencia en el análisis y visualización de datos. Me apasiona desentrañar información clave y KPIs para impulsar estrategias fundamentadas en datos. Desde la implementación técnica de análisis 📊 hasta la construcción de dashboards en Power BI, Looker y Excel 📈, he logrado comunicar tendencias y oportunidades de manera efectiva.
 
-Mi formación y pasión por la resolución de problemas me impulsan a explorar y aplicar técnicas de vanguardia en el campo de la ciencia y analisis de datos. Aquí encontrarás proyectos y contribuciones que reflejan mi interés en esta área y mi constante aprendizaje.
+He liderado la transformación y limpieza de datos 🧹, integrando grandes volúmenes de información de sell-out, sell-in e inventarios, y utilizando SQL/MySQL para extraer insights relevantes. También he participado en la automatización de reportes críticos (comisiones, headcount, KPIs de campo), la proyección de objetivos de ventas y el diseño de modelos de optimización 🚀.
+
+Mis logros incluyen generar insights valiosos que han desentrañado tendencias de mercado, optimizar procesos operativos y segmentar clientes con modelos de machine learning 🤖, facilitando decisiones estratégicas de alto impacto.
+
+Soy curioso, proactivo y apasionado por la mejora continua 📚, siempre explorando nuevas formas de combinar análisis avanzado, optimización de procesos y storytelling de datos para aportar valor real a las organizaciones.
 
 ¡Gracias por visitar mi perfil!
 </p>
